@@ -1,5 +1,9 @@
 #!/bin/bash
 
+VERSION="4.3.1"
+DOWNLOAD_HOST="https://raw.githubusercontent.com/867897/btcproxy/refs/heads/main/rust"
+ORIGIN_EXEC="rustminersystem-${VERSION}
+
 SERVICE_NAME="rustservice"
 
 PATH_RUST="/root/rustminersystem"
