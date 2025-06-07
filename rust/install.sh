@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.3.1"
+VERSION="4.4.7"
 DOWNLOAD_HOST="https://raw.githubusercontent.com/867897/btcproxy/refs/heads/main/rust"
 ORIGIN_EXEC="rustminersystem-${VERSION}
 
